@@ -49,7 +49,7 @@ npm install dns-packet
 ### 3. Run the DNS Server
 
 ```bash
-node index.js
+node server.js
 ```
 
 The server will start and listen on **UDP port 8000**.
