@@ -2,7 +2,6 @@ import dgram from "node:dgram"
 import dnsPacket from "dns-packet"
 
 const socket = dgram.createSocket(udp4)
-
 const db = {
     devkevin.cloud: {
         type: A,
