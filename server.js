@@ -1,5 +1,5 @@
-import dgram from node:dgram
-import dnsPacket from dns-packet
+import dgram from "node:dgram"
+import dnsPacket from "dns-packet"
 
 const socket = dgram.createSocket(udp4)
 
