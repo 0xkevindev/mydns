@@ -36,7 +36,7 @@ DNS is a critical part of how the internet works, yet it's often abstracted away
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/0xkevindev/mydns.git
+git clone https://github.com/btwkevin/mydns.git
 cd custom-dns-server
 ```
 
